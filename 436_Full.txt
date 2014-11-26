@@ -1,0 +1,605 @@
+POST http://learn.open.com.cn/StudentCenter/OnLineJob/DoHomework.aspx?CourseExerciseID=201345&key=94c8b7638873ca59&SectionIndex=1 HTTP/1.1
+Accept: application/x-ms-application, image/jpeg, application/xaml+xml, image/gif, image/pjpeg, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: http://learn.open.com.cn/StudentCenter/OnLineJob/DoHomework.aspx?CourseExerciseID=201345&key=94c8b7638873ca59&SubmitCount=0
+Accept-Language: zh-CN
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+Host: learn.open.com.cn
+Content-Length: 14228
+Connection: Keep-Alive
+Pragma: no-cache
+Cookie: up_page_stime_100200=1416401002698; up_beacon_vist_count_100200=8; up_page_stime_100200=1416400954301; up_beacon_vist_count_100200=4; b_t_s=t216308317031x; __utma=238318431.1710599953.1416308317.1416394839.1416398267.5; __utmz=238318431.1416308317.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); b_t_s_100200=90413780-2c5b-498b-8efa-da2c942a1a35; up_first_date=2014-11-18; up_beacon_user_id_100200=zhuhanfeng1309; up_beacon_uni_id_100200=10006; b_t_s_100201=075c3072-7de0-4b47-8854-c0a32d0034a7; up_beacon_user_id_100201=AdminT0757301; __utmb=238318431.20.10.1416398267; __utmt=1; up_page_stime_100200=1416400933239; up_beacon_vist_count_100200=1; up_beacon_id_100200=90413780-2c5b-498b-8efa-da2c942a1a35-1416400933240; __utmc=238318431; ASP.NET_SessionId=fl5g5j45r1ny3xivq3pcrn55; LoginName=; Password=
+
+__VIEWSTATE=%2FwEPDwUJMzg1NTk5MjEyDxYEHhBDb3Vyc2VFeGVyY2lzZUlEAoGlDB4ISG9tZXdvcmsyrQYAAQAAAP%2F%2F%2F%2F8BAAAAAAAAAAwCAAAAT09FUy5MTVMuQnVzaW5lc3NFbnRpdGllcywgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwFAQAAADRPRVMuTE1TLkJ1c2luZXNzRW50aXRpZXMuT25saW5lSm9iLk9ubGluZV9yX0hvbWV3b3JrEAAAAA9ob21ld29ya0lkRmllbGQVY291cnNlRXhlcmNpc2VJREZpZWxkGGV4ZXJjaXNlVGVzdHBhcGVySURGaWVsZA5yZXN1bHRYTUxGaWVsZApzdGF0ZUZpZWxkE29iamVjdGl2ZVNjb3JlRmllbGQUc3ViamVjdGl2ZVNjb3JlRmllbGQOYmVnaW5UaW1lRmllbGQPc3VibWl0VGltZUZpZWxkDW1hcmtUaW1lRmllbGQNbWFya2VySWRGaWVsZA5jcmVhdG9ySWRGaWVsZBBjcmVhdG9yTmFtZUZpZWxkD2NyZWF0ZXRpbWVGaWVsZA10aW1lb3V0c0ZpZWxkEHN0dWRlbnRDb2RlRmllbGQDAAABBAAAAAAAAQEBAAABC1N5c3RlbS5HdWlkCAgwT0VTLkxNUy5CdXNpbmVzc0VudGl0aWVzLk9ubGluZUpvYi5Ib21ld29ya1N0YXRlAgAAAAsLDQ0NDQgCAAAABP3%2F%2F%2F8LU3lzdGVtLkd1aWQLAAAAAl9hAl9iAl9jAl9kAl9lAl9mAl9nAl9oAl9pAl9qAl9rAAAAAAAAAAAAAAAIBwcCAgICAgICAhXYHrVoUW9JkOYAX3PJV3WBEgMAWUcGAAoF%2FP%2F%2F%2FzBPRVMuTE1TLkJ1c2luZXNzRW50aXRpZXMuT25saW5lSm9iLkhvbWV3b3JrU3RhdGUBAAAAB3ZhbHVlX18ACAIAAAABAAAAAAAAAAAAAADBBsuXUNLRiAAAAAAAAAAAAAAAAAAAAAAKBgUAAAAOemh1aGFuZmVuZzEzMDkGBgAAAAnmnLHmsYnng73BBsuXUNLRiAAAAAAGBwAAABdUMDc1NzMwMTEwMDA2MTMwOTAwMDAzOQsWAgIDD2QWAgIBDw8WAh4MU2VjdGlvbkluZGV4AgFkFgQCAQ8PZBYCHgVzdHlsZQUNZGlzcGxheTpub25lO2QCAw8PZBYCHwMFDWRpc3BsYXk6bm9uZTtkZGF2JfJT2aPToDg9oR2Q9fsP%2Fn2f&uc_testPaper%24txtAssessmentResult=%3CassessmentResult%3E%3Ccontext%3E%3CsessionIdentifier+sourceID%3D%22www.openedu.com.cn%22+identifier%3D%22fe219089-67f9-47b4-a0ed-b10759a880a2%22%2F%3E%3C%2Fcontext%3E%3CtestResult+identifier%3D%22fe219089-67f9-47b4-a0ed-b10759a880a2%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CtestSession%3E%3Cstate%3E%3C%2Fstate%3E%3CpartDuration+duration%3D%2243%22%2F%3E%3CoutcomeVariable+identifier%3D%22SCORE%22+masteryValue%3D%2260%22%3E%3Cvalue%3E0%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3C%2FtestSession%3E%3C%2FtestResult%3E%3CitemResult+identifier%3D%2255bf42f8-c1c7-4c98-b913-6e27eef0d45f%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%22b10c945f-55cc-48b4-8d08-0bbda3f8c316%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%225a5dfc5f-88df-45b4-b744-7a70ccbbc2c1%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%228be27b46-2ef9-4fac-aef2-9f9a821e2601%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%22f0e65d9f-7fe8-42bc-a2da-30b603682bc7%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%221da4032c-3c55-4c77-af84-760ea744c922%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%22f3d4e2c5-9d61-468c-bb3a-fe6a8b2e2114%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%22fbcc0225-3f6b-47b4-b109-c342ae0f8b4d%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%2248096f6c-7f7a-4fdb-b4ce-39dde92a87ea%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%22ff0892b2-3b2e-414f-af0c-5fd89eb5ad13%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%22ffbca1c6-08e6-4b23-a507-e0e549a8447f%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%22c2822453-1ee0-4859-b1e8-f5f5b7009383%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%2240bef58f-ad1c-4a39-a2ca-b5cd523410fb%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%226a2352ed-f986-41dc-a411-ca0d3457a057%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%226f826915-1228-4702-9a65-522d6d7ecc35%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%22385c493b-1265-4808-993c-8a06c0d8ef00%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%226c98d350-56ac-446b-8c99-7e0cdb089686%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%22aff8b109-3ce1-421b-90c1-e0a0dad4197b%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%229148602f-50f1-4e23-b3cf-fb63330d5a02%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%2224cfe810-2911-4c00-bcce-ac699371a22c%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%2212d63188-dc55-45d1-826c-3cc6ac7194a7%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%2282d76044-44fc-4fd7-9798-8ab2e2381bcd%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%22bd507d00-27eb-4fea-8432-f8c82aa59e4a%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%22c92a5ac0-361e-4b0a-aabe-46fc25bbc07e%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3CitemResult+identifier%3D%22f0a93fcd-c526-4bb0-bb74-974a33575013%22+datestamp%3D%222014-11-19+20%3A44%3A6%22%3E%3CitemSession+numAttempts%3D%221%22+sessionStatus%3D%22pendingSubmission%22+completionStatus%3D%22unknown%22%3E%3Cstate%3E%3C%2Fstate%3E%3CoutcomeVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FoutcomeVariable%3E%3CresponseVariable+identifier%3D%22Response%22%3E%3Cvalue%3E%3C%2Fvalue%3E%3C%2FresponseVariable%3E%3C%2FitemSession%3E%3C%2FitemResult%3E%3C%2FassessmentResult%3E&uc_testPaper%24txtLeaveTime=&__EVENTVALIDATION=%2FwEWBQL3v%2FfHBgLa9fmnCwK%2F5K3ADAK1s9viDwKQ%2Fp2iDw30TFW%2FlSH7Ki3foWGBCXePKjLD
+HTTP/1.1 200 OK
+Date: Wed, 19 Nov 2014 12:44:08 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Length: 65728
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><link href="../../App_Themes/ThemeDefault/AjaxToolKitTabs.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/Basic.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/calendar.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/Class.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/ClassRoom.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/ConPage.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/ElearningHub.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/Evaluation.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/Forms.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/General.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/Home.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/Layout.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/Login/index.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/mask.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/OnlineJob.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/P_learning.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/PageSet.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/people.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/Print.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/teacherAdmin.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/Thesis.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/VocationCenter.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/ThemeDefault/%E5%A4%8D%E4%BB%B6%20Home.css" type="text/css" rel="stylesheet" /><title>
+	做作业
+</title>
+    <style type="text/css">
+        .Link:hover,.Link:link,.Link:visited,.Link:active{
+            color:red;
+	        font-size:30px;
+        }
+    </style>
+    <script type="text/javascript" src="../../FCKeditor/fckeditor.js"></script>
+    
+    
+    
+
+</head>
+<body onunload="RefreshParentWindow()">
+<table border="0" cellpadding="0" cellspacing="0" width="800" align="center">
+<tr>
+<td>
+<div style ="  text-align:center; font-weight:bold; font-size:larger; color:Red;"><br />
+<br />请同学及时保存作业,如您在20分钟内不作操作,系统将自动退出。</div>
+    <form name="form1" method="post" action="DoHomework.aspx?CourseExerciseID=201345&amp;key=94c8b7638873ca59&amp;SectionIndex=1" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzg1NTk5MjEyDxYEHhBDb3Vyc2VFeGVyY2lzZUlEAoGlDB4ISG9tZXdvcmsyrQYAAQAAAP////8BAAAAAAAAAAwCAAAAT09FUy5MTVMuQnVzaW5lc3NFbnRpdGllcywgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwFAQAAADRPRVMuTE1TLkJ1c2luZXNzRW50aXRpZXMuT25saW5lSm9iLk9ubGluZV9yX0hvbWV3b3JrEAAAAA9ob21ld29ya0lkRmllbGQVY291cnNlRXhlcmNpc2VJREZpZWxkGGV4ZXJjaXNlVGVzdHBhcGVySURGaWVsZA5yZXN1bHRYTUxGaWVsZApzdGF0ZUZpZWxkE29iamVjdGl2ZVNjb3JlRmllbGQUc3ViamVjdGl2ZVNjb3JlRmllbGQOYmVnaW5UaW1lRmllbGQPc3VibWl0VGltZUZpZWxkDW1hcmtUaW1lRmllbGQNbWFya2VySWRGaWVsZA5jcmVhdG9ySWRGaWVsZBBjcmVhdG9yTmFtZUZpZWxkD2NyZWF0ZXRpbWVGaWVsZA10aW1lb3V0c0ZpZWxkEHN0dWRlbnRDb2RlRmllbGQDAAABBAAAAAAAAQEBAAABC1N5c3RlbS5HdWlkCAgwT0VTLkxNUy5CdXNpbmVzc0VudGl0aWVzLk9ubGluZUpvYi5Ib21ld29ya1N0YXRlAgAAAAsLDQ0NDQgCAAAABP3///8LU3lzdGVtLkd1aWQLAAAAAl9hAl9iAl9jAl9kAl9lAl9mAl9nAl9oAl9pAl9qAl9rAAAAAAAAAAAAAAAIBwcCAgICAgICAhXYHrVoUW9JkOYAX3PJV3WBEgMAWUcGAAoF/P///zBPRVMuTE1TLkJ1c2luZXNzRW50aXRpZXMuT25saW5lSm9iLkhvbWV3b3JrU3RhdGUBAAAAB3ZhbHVlX18ACAIAAAABAAAAAAAAAAAAAADBBsuXUNLRiAAAAAAAAAAAAAAAAAAAAAAKBgUAAAAOemh1aGFuZmVuZzEzMDkGBgAAAAnmnLHmsYnng73BBsuXUNLRiAAAAAAGBwAAABdUMDc1NzMwMTEwMDA2MTMwOTAwMDAzOQsWAgIDD2QWAgIBDw8WAh4MU2VjdGlvbkluZGV4AgFkFgQCAQ8PZBYCHgVzdHlsZQUNZGlzcGxheTpub25lO2QCAw8PZBYCHwMFDWRpc3BsYXk6bm9uZTtkZGF2JfJT2aPToDg9oR2Q9fsP/n2f" />
+</div>
+
+
+<script src="/OEMSExercise/UserControl/OpenTestPaper/JS/Atlas/AtlasCore.js" type="text/javascript"></script>
+<script src="/OEMSExercise/UserControl/OpenTestPaper/JS/XML.js" type="text/javascript"></script>
+<script src="/OEMSExercise/UserControl/OpenTestPaper/JS/IMS.js" type="text/javascript"></script>
+<script src="/OEMSExercise/UserControl/OpenTestPaper/JS/QTM.js" type="text/javascript"></script>
+<script src="/OEMSExercise/UserControl/OpenTestPaper/JS/Items.js" type="text/javascript"></script>
+<script src="/OEMSExercise/UserControl/OpenTestPaper/JS/JSUtils.js" type="text/javascript"></script>
+<script src="/OEMSExercise/UserControl/OpenTestPaper/JS/TestPaperBase.js" type="text/javascript"></script>
+<script src="/OEMSExercise/UserControl/OpenTestPaper/JS/jquery.js" type="text/javascript"></script>
+        
+<script language="javascript" type="text/javascript">
+    function InitControl(txtAssessmentResult,txtLeaveTime,homeworkId)
+    {    
+        g_txtAssessmentResult = txtAssessmentResult;
+        g_txtLeaveTime = txtLeaveTime;
+		g_homeworkID = homeworkId;
+		setAssessmentResult();
+		setLeavetime();
+//		if ( g_countDownObj != undefined && g_countDownObj != null )
+//		{
+//		    setInterval("updateTimeOut()",180000);
+//		}
+    }
+    
+    function updateTimeOut()
+    {
+        service.useService("HomeworkService.asmx?WSDL","Homework");
+        service.Homework.callService("UpdateTimeOut",g_homeworkID,g_countDownObj.LeaveSecond);
+    }
+    //控制层的显示
+    function showindex(str)
+    {
+        var obj = document.getElementById("divSection"+str);
+        if(obj.className == "ReviewSectionBodyNone")
+        {
+            obj.className="ReviewSectionBody";
+        }
+        else
+        {
+            obj.className="ReviewSectionBodyNone";
+        }
+    }
+
+    //题目大纲右侧箭头，控制层的显示按钮
+    function getShowDiv(inputNumber)
+    {
+        return ("<a href='#' onclick='showindex(" + inputNumber + ")'>V</a>");
+    }
+    
+    function getShowDivClose(inputNumber)
+    {
+        return ("<div class='ReviewSectionBodyNone' id='divSection" + inputNumber + "'>");
+    }
+    
+    function getShowDivOpen(inputNumber)
+    {
+        return ("<div class='ReviewSectionBody' id='divSection" + inputNumber + "'>");
+    }
+</script>
+<textarea name="uc_testPaper$txtAssessmentResult" rows="2" cols="20" id="uc_testPaper_txtAssessmentResult" class="inputTextBox" style="display:none;">&lt;assessmentResult&gt;&lt;context&gt;&lt;sessionIdentifier sourceID=&quot;www.openedu.com.cn&quot; identifier=&quot;fe219089-67f9-47b4-a0ed-b10759a880a2&quot;/&gt;&lt;/context&gt;&lt;testResult identifier=&quot;fe219089-67f9-47b4-a0ed-b10759a880a2&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;testSession&gt;&lt;state&gt;&lt;/state&gt;&lt;partDuration duration=&quot;43&quot;/&gt;&lt;outcomeVariable identifier=&quot;SCORE&quot; masteryValue=&quot;60&quot;&gt;&lt;value&gt;0&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;/testSession&gt;&lt;/testResult&gt;&lt;itemResult identifier=&quot;55bf42f8-c1c7-4c98-b913-6e27eef0d45f&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;b10c945f-55cc-48b4-8d08-0bbda3f8c316&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;5a5dfc5f-88df-45b4-b744-7a70ccbbc2c1&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;8be27b46-2ef9-4fac-aef2-9f9a821e2601&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;f0e65d9f-7fe8-42bc-a2da-30b603682bc7&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;1da4032c-3c55-4c77-af84-760ea744c922&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;f3d4e2c5-9d61-468c-bb3a-fe6a8b2e2114&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;fbcc0225-3f6b-47b4-b109-c342ae0f8b4d&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;48096f6c-7f7a-4fdb-b4ce-39dde92a87ea&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;ff0892b2-3b2e-414f-af0c-5fd89eb5ad13&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;ffbca1c6-08e6-4b23-a507-e0e549a8447f&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;c2822453-1ee0-4859-b1e8-f5f5b7009383&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;40bef58f-ad1c-4a39-a2ca-b5cd523410fb&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;6a2352ed-f986-41dc-a411-ca0d3457a057&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;6f826915-1228-4702-9a65-522d6d7ecc35&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;385c493b-1265-4808-993c-8a06c0d8ef00&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;6c98d350-56ac-446b-8c99-7e0cdb089686&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;aff8b109-3ce1-421b-90c1-e0a0dad4197b&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;9148602f-50f1-4e23-b3cf-fb63330d5a02&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;24cfe810-2911-4c00-bcce-ac699371a22c&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;12d63188-dc55-45d1-826c-3cc6ac7194a7&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;82d76044-44fc-4fd7-9798-8ab2e2381bcd&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;bd507d00-27eb-4fea-8432-f8c82aa59e4a&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;c92a5ac0-361e-4b0a-aabe-46fc25bbc07e&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;itemResult identifier=&quot;f0a93fcd-c526-4bb0-bb74-974a33575013&quot; datestamp=&quot;2014-11-19 20:44:6&quot;&gt;&lt;itemSession numAttempts=&quot;1&quot; sessionStatus=&quot;pendingSubmission&quot; completionStatus=&quot;unknown&quot;&gt;&lt;state&gt;&lt;/state&gt;&lt;outcomeVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/outcomeVariable&gt;&lt;responseVariable identifier=&quot;Response&quot;&gt;&lt;value&gt;&lt;/value&gt;&lt;/responseVariable&gt;&lt;/itemSession&gt;&lt;/itemResult&gt;&lt;/assessmentResult&gt;</textarea>
+<input name="uc_testPaper$txtLeaveTime" type="text" id="uc_testPaper_txtLeaveTime" class="inputTextBox" style="display:none;" />
+<script type="text/jscript" language="javascript">
+			configWindow();
+			loadCSS("/OEMSExercise/UserControl/OpenTestPaper/");
+			
+				g_prop_NoCompleteAlert = true;
+			
+			g_prop_AlertMessage = "以下试题尚未完成，点击“交卷”后不能继续答题，点击“确认”直接交卷，点击“取消”可继续答题。";
+		</script>
+<div id="service" style="
+				behavior:url(/OEMSExercise/UserControl/OpenTestPaper/htc/webservice.htc)
+			">
+</div>
+<div class="ReviewTestBody">
+  <script type="text/jscript" language="javascript" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:myPublicFunction="urn:myPublicFunction">
+			g_TestIdentifier = "fe219089-67f9-47b4-a0ed-b10759a880a2";
+		</script>
+  <table style="width:100%;background-color:#F0F5F5" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:myPublicFunction="urn:myPublicFunction">
+    <tr>
+      <td style="align:center;width:100%">
+        <div class="ReviewTestTitle"> 北航《大学英语预备级1》在线作业三</div>
+        <div class="ReviewTestInfo">试卷总分：100       测试时间：--</div>
+        <div id="showTime" class="ReviewTestInfo">
+        </div>
+        <script language="Jscript">
+			      g_PaperTimeOut = 0;
+			      
+				      g_PaperTimeOut = 0</script>
+        <table style="width:100%;border-bottom: 1px solid #000000;">
+          <tr>
+            <td width="50px">
+            </td>
+            <td style="valign:bottom;align:center;width:100%;background-color:#F0F5F5">
+              <ul float="left" class="TestSection">
+                <li>
+                  <a class="myCourseNavOver" href="#" language="javascript" onclick="ChangeSection();document.forms[0].action = 'http://learn.open.com.cn/StudentCenter/OnLineJob/DoHomework.aspx?CourseExerciseID=201345&amp;key=94c8b7638873ca59&amp;S&amp;SectionIndex=1';document.forms[0].mehtod = 'post';document.forms[0].submit();">单选题<script type="text/jscript" language="javascript">
+								            g_SectionItems[g_SectionItems.length] = '单选题';
+							            </script></a>
+                </li>
+              </ul>
+            </td>
+          </tr>
+        </table>
+        <script type="text/jscript" language="javascript">
+				SectionIdentifier = "Section_0"
+				g_prop_sectionIndex = 1;
+				sectionIndex = 1</script>
+        <br>
+        <div class="ReviewSectionTitle">
+          <div class="left">
+            <script type="text/jscript" language="javascript">
+						document.write(getGBNumber(1));
+					</script>、单选题（共 25 道试题，共 100 分。）</div>
+          <div class="right">
+            <script type="text/jscript" language="javascript">
+              document.write(getShowDiv(1));
+            </script>
+          </div>
+        </div>
+        <script type="text/jscript" language="javascript">
+            document.write(getShowDivOpen(1));
+          </script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "55bf42f8-c1c7-4c98-b913-6e27eef0d45f";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 1</script>
+        <div class="TestItemBody">1.  It wasn’t an accident. He did it on （    ）.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_55bf42f8-c1c7-4c98-b913-6e27eef0d45f_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_55bf42f8-c1c7-4c98-b913-6e27eef0d45f_Response_0" name="rdo_55bf42f8-c1c7-4c98-b913-6e27eef0d45f_Response" value="0">A. reason</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_55bf42f8-c1c7-4c98-b913-6e27eef0d45f_Response_1" name="rdo_55bf42f8-c1c7-4c98-b913-6e27eef0d45f_Response" value="1">B. determination</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_55bf42f8-c1c7-4c98-b913-6e27eef0d45f_Response_2" name="rdo_55bf42f8-c1c7-4c98-b913-6e27eef0d45f_Response" value="2">C. purpose</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_55bf42f8-c1c7-4c98-b913-6e27eef0d45f_Response_3" name="rdo_55bf42f8-c1c7-4c98-b913-6e27eef0d45f_Response" value="3">D. intention</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "b10c945f-55cc-48b4-8d08-0bbda3f8c316";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 2</script>
+        <div class="TestItemBody">2.  It was not until 1980s （    ）they settled down in north America.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_b10c945f-55cc-48b4-8d08-0bbda3f8c316_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_b10c945f-55cc-48b4-8d08-0bbda3f8c316_Response_0" name="rdo_b10c945f-55cc-48b4-8d08-0bbda3f8c316_Response" value="0">A. which</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_b10c945f-55cc-48b4-8d08-0bbda3f8c316_Response_1" name="rdo_b10c945f-55cc-48b4-8d08-0bbda3f8c316_Response" value="1">B. than</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_b10c945f-55cc-48b4-8d08-0bbda3f8c316_Response_2" name="rdo_b10c945f-55cc-48b4-8d08-0bbda3f8c316_Response" value="2">C. that</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_b10c945f-55cc-48b4-8d08-0bbda3f8c316_Response_3" name="rdo_b10c945f-55cc-48b4-8d08-0bbda3f8c316_Response" value="3">D. then</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "5a5dfc5f-88df-45b4-b744-7a70ccbbc2c1";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 3</script>
+        <div class="TestItemBody">3.  I have finished typing all （    ）the last page<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_5a5dfc5f-88df-45b4-b744-7a70ccbbc2c1_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_5a5dfc5f-88df-45b4-b744-7a70ccbbc2c1_Response_0" name="rdo_5a5dfc5f-88df-45b4-b744-7a70ccbbc2c1_Response" value="0">A. until</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_5a5dfc5f-88df-45b4-b744-7a70ccbbc2c1_Response_1" name="rdo_5a5dfc5f-88df-45b4-b744-7a70ccbbc2c1_Response" value="1">B. but</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_5a5dfc5f-88df-45b4-b744-7a70ccbbc2c1_Response_2" name="rdo_5a5dfc5f-88df-45b4-b744-7a70ccbbc2c1_Response" value="2">C. to</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_5a5dfc5f-88df-45b4-b744-7a70ccbbc2c1_Response_3" name="rdo_5a5dfc5f-88df-45b4-b744-7a70ccbbc2c1_Response" value="3">D. for</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "8be27b46-2ef9-4fac-aef2-9f9a821e2601";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 4</script>
+        <div class="TestItemBody">4.  The war broke out （    ）1914.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_8be27b46-2ef9-4fac-aef2-9f9a821e2601_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_8be27b46-2ef9-4fac-aef2-9f9a821e2601_Response_0" name="rdo_8be27b46-2ef9-4fac-aef2-9f9a821e2601_Response" value="0">A. in</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_8be27b46-2ef9-4fac-aef2-9f9a821e2601_Response_1" name="rdo_8be27b46-2ef9-4fac-aef2-9f9a821e2601_Response" value="1">B. at</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_8be27b46-2ef9-4fac-aef2-9f9a821e2601_Response_2" name="rdo_8be27b46-2ef9-4fac-aef2-9f9a821e2601_Response" value="2">C. on</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_8be27b46-2ef9-4fac-aef2-9f9a821e2601_Response_3" name="rdo_8be27b46-2ef9-4fac-aef2-9f9a821e2601_Response" value="3">D. since</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "f0e65d9f-7fe8-42bc-a2da-30b603682bc7";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 5</script>
+        <div class="TestItemBody">5.  Teacher told Tom（    ）late for school.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_f0e65d9f-7fe8-42bc-a2da-30b603682bc7_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_f0e65d9f-7fe8-42bc-a2da-30b603682bc7_Response_0" name="rdo_f0e65d9f-7fe8-42bc-a2da-30b603682bc7_Response" value="0">A. not to</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_f0e65d9f-7fe8-42bc-a2da-30b603682bc7_Response_1" name="rdo_f0e65d9f-7fe8-42bc-a2da-30b603682bc7_Response" value="1">B. not be</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_f0e65d9f-7fe8-42bc-a2da-30b603682bc7_Response_2" name="rdo_f0e65d9f-7fe8-42bc-a2da-30b603682bc7_Response" value="2">C. not to be</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_f0e65d9f-7fe8-42bc-a2da-30b603682bc7_Response_3" name="rdo_f0e65d9f-7fe8-42bc-a2da-30b603682bc7_Response" value="3">D. did not be</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "1da4032c-3c55-4c77-af84-760ea744c922";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 6</script>
+        <div class="TestItemBody">6.  They differ （    ）each other in many ways.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_1da4032c-3c55-4c77-af84-760ea744c922_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_1da4032c-3c55-4c77-af84-760ea744c922_Response_0" name="rdo_1da4032c-3c55-4c77-af84-760ea744c922_Response" value="0">A. to</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_1da4032c-3c55-4c77-af84-760ea744c922_Response_1" name="rdo_1da4032c-3c55-4c77-af84-760ea744c922_Response" value="1">B. with</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_1da4032c-3c55-4c77-af84-760ea744c922_Response_2" name="rdo_1da4032c-3c55-4c77-af84-760ea744c922_Response" value="2">C. on</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_1da4032c-3c55-4c77-af84-760ea744c922_Response_3" name="rdo_1da4032c-3c55-4c77-af84-760ea744c922_Response" value="3">D. from</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "f3d4e2c5-9d61-468c-bb3a-fe6a8b2e2114";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 7</script>
+        <div class="TestItemBody">7.  A: I like documentaries on TV. 
+B: （    ）.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_f3d4e2c5-9d61-468c-bb3a-fe6a8b2e2114_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_f3d4e2c5-9d61-468c-bb3a-fe6a8b2e2114_Response_0" name="rdo_f3d4e2c5-9d61-468c-bb3a-fe6a8b2e2114_Response" value="0">A. So am I.</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_f3d4e2c5-9d61-468c-bb3a-fe6a8b2e2114_Response_1" name="rdo_f3d4e2c5-9d61-468c-bb3a-fe6a8b2e2114_Response" value="1">B. So do I.</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_f3d4e2c5-9d61-468c-bb3a-fe6a8b2e2114_Response_2" name="rdo_f3d4e2c5-9d61-468c-bb3a-fe6a8b2e2114_Response" value="2">C. So have I</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_f3d4e2c5-9d61-468c-bb3a-fe6a8b2e2114_Response_3" name="rdo_f3d4e2c5-9d61-468c-bb3a-fe6a8b2e2114_Response" value="3">D. So did I</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "fbcc0225-3f6b-47b4-b109-c342ae0f8b4d";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 8</script>
+        <div class="TestItemBody">8.  I am afraid that there isn&rsquo;t （ ）left for you two in my car. There are already five people in it .<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_fbcc0225-3f6b-47b4-b109-c342ae0f8b4d_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_fbcc0225-3f6b-47b4-b109-c342ae0f8b4d_Response_0" name="rdo_fbcc0225-3f6b-47b4-b109-c342ae0f8b4d_Response" value="0">A. many room</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_fbcc0225-3f6b-47b4-b109-c342ae0f8b4d_Response_1" name="rdo_fbcc0225-3f6b-47b4-b109-c342ae0f8b4d_Response" value="1">B. any rooms</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_fbcc0225-3f6b-47b4-b109-c342ae0f8b4d_Response_2" name="rdo_fbcc0225-3f6b-47b4-b109-c342ae0f8b4d_Response" value="2">C. any room</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_fbcc0225-3f6b-47b4-b109-c342ae0f8b4d_Response_3" name="rdo_fbcc0225-3f6b-47b4-b109-c342ae0f8b4d_Response" value="3">D. many rooms</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "48096f6c-7f7a-4fdb-b4ce-39dde92a87ea";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 9</script>
+        <div class="TestItemBody">9.  While crosing the street, he knocked（    ）our car.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_48096f6c-7f7a-4fdb-b4ce-39dde92a87ea_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_48096f6c-7f7a-4fdb-b4ce-39dde92a87ea_Response_0" name="rdo_48096f6c-7f7a-4fdb-b4ce-39dde92a87ea_Response" value="0">A. at</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_48096f6c-7f7a-4fdb-b4ce-39dde92a87ea_Response_1" name="rdo_48096f6c-7f7a-4fdb-b4ce-39dde92a87ea_Response" value="1">B. into</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_48096f6c-7f7a-4fdb-b4ce-39dde92a87ea_Response_2" name="rdo_48096f6c-7f7a-4fdb-b4ce-39dde92a87ea_Response" value="2">C. off</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_48096f6c-7f7a-4fdb-b4ce-39dde92a87ea_Response_3" name="rdo_48096f6c-7f7a-4fdb-b4ce-39dde92a87ea_Response" value="3">D. out</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "ff0892b2-3b2e-414f-af0c-5fd89eb5ad13";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 10</script>
+        <div class="TestItemBody">10.  I objected（    ）in the conference without democracy.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_ff0892b2-3b2e-414f-af0c-5fd89eb5ad13_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_ff0892b2-3b2e-414f-af0c-5fd89eb5ad13_Response_0" name="rdo_ff0892b2-3b2e-414f-af0c-5fd89eb5ad13_Response" value="0">A. to voting</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_ff0892b2-3b2e-414f-af0c-5fd89eb5ad13_Response_1" name="rdo_ff0892b2-3b2e-414f-af0c-5fd89eb5ad13_Response" value="1">B. vote</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_ff0892b2-3b2e-414f-af0c-5fd89eb5ad13_Response_2" name="rdo_ff0892b2-3b2e-414f-af0c-5fd89eb5ad13_Response" value="2">C. having voted</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_ff0892b2-3b2e-414f-af0c-5fd89eb5ad13_Response_3" name="rdo_ff0892b2-3b2e-414f-af0c-5fd89eb5ad13_Response" value="3">D. voted</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "ffbca1c6-08e6-4b23-a507-e0e549a8447f";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 11</script>
+        <div class="TestItemBody">11.  Shopping will be（    ）cheaper if in holidays.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_ffbca1c6-08e6-4b23-a507-e0e549a8447f_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_ffbca1c6-08e6-4b23-a507-e0e549a8447f_Response_0" name="rdo_ffbca1c6-08e6-4b23-a507-e0e549a8447f_Response" value="0">A. much even</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_ffbca1c6-08e6-4b23-a507-e0e549a8447f_Response_1" name="rdo_ffbca1c6-08e6-4b23-a507-e0e549a8447f_Response" value="1">B. very</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_ffbca1c6-08e6-4b23-a507-e0e549a8447f_Response_2" name="rdo_ffbca1c6-08e6-4b23-a507-e0e549a8447f_Response" value="2">C. quite</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_ffbca1c6-08e6-4b23-a507-e0e549a8447f_Response_3" name="rdo_ffbca1c6-08e6-4b23-a507-e0e549a8447f_Response" value="3">D. even</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "c2822453-1ee0-4859-b1e8-f5f5b7009383";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 12</script>
+        <div class="TestItemBody">12.  I don’t know her address,（    ）I can’t write to her.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_c2822453-1ee0-4859-b1e8-f5f5b7009383_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_c2822453-1ee0-4859-b1e8-f5f5b7009383_Response_0" name="rdo_c2822453-1ee0-4859-b1e8-f5f5b7009383_Response" value="0">A. but</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_c2822453-1ee0-4859-b1e8-f5f5b7009383_Response_1" name="rdo_c2822453-1ee0-4859-b1e8-f5f5b7009383_Response" value="1">B. or</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_c2822453-1ee0-4859-b1e8-f5f5b7009383_Response_2" name="rdo_c2822453-1ee0-4859-b1e8-f5f5b7009383_Response" value="2">C. so</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_c2822453-1ee0-4859-b1e8-f5f5b7009383_Response_3" name="rdo_c2822453-1ee0-4859-b1e8-f5f5b7009383_Response" value="3">D. since</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "40bef58f-ad1c-4a39-a2ca-b5cd523410fb";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 13</script>
+        <div class="TestItemBody">13.  （    ）books you borrow from the library should be returned in two weeks' time.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_40bef58f-ad1c-4a39-a2ca-b5cd523410fb_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_40bef58f-ad1c-4a39-a2ca-b5cd523410fb_Response_0" name="rdo_40bef58f-ad1c-4a39-a2ca-b5cd523410fb_Response" value="0">A. Whatever</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_40bef58f-ad1c-4a39-a2ca-b5cd523410fb_Response_1" name="rdo_40bef58f-ad1c-4a39-a2ca-b5cd523410fb_Response" value="1">B. Which</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_40bef58f-ad1c-4a39-a2ca-b5cd523410fb_Response_2" name="rdo_40bef58f-ad1c-4a39-a2ca-b5cd523410fb_Response" value="2">C. No matter who</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_40bef58f-ad1c-4a39-a2ca-b5cd523410fb_Response_3" name="rdo_40bef58f-ad1c-4a39-a2ca-b5cd523410fb_Response" value="3">D. What</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "6a2352ed-f986-41dc-a411-ca0d3457a057";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 14</script>
+        <div class="TestItemBody">14.  It’s very kind（    ）say so.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_6a2352ed-f986-41dc-a411-ca0d3457a057_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_6a2352ed-f986-41dc-a411-ca0d3457a057_Response_0" name="rdo_6a2352ed-f986-41dc-a411-ca0d3457a057_Response" value="0">A. from you to</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_6a2352ed-f986-41dc-a411-ca0d3457a057_Response_1" name="rdo_6a2352ed-f986-41dc-a411-ca0d3457a057_Response" value="1">B. of you to</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_6a2352ed-f986-41dc-a411-ca0d3457a057_Response_2" name="rdo_6a2352ed-f986-41dc-a411-ca0d3457a057_Response" value="2">C. by you to</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_6a2352ed-f986-41dc-a411-ca0d3457a057_Response_3" name="rdo_6a2352ed-f986-41dc-a411-ca0d3457a057_Response" value="3">D. that you</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "6f826915-1228-4702-9a65-522d6d7ecc35";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 15</script>
+        <div class="TestItemBody">15.  Jack work so hard as he dreams （    ）owning his own house soon.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_6f826915-1228-4702-9a65-522d6d7ecc35_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_6f826915-1228-4702-9a65-522d6d7ecc35_Response_0" name="rdo_6f826915-1228-4702-9a65-522d6d7ecc35_Response" value="0">A. to</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_6f826915-1228-4702-9a65-522d6d7ecc35_Response_1" name="rdo_6f826915-1228-4702-9a65-522d6d7ecc35_Response" value="1">B. with</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_6f826915-1228-4702-9a65-522d6d7ecc35_Response_2" name="rdo_6f826915-1228-4702-9a65-522d6d7ecc35_Response" value="2">C. of</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_6f826915-1228-4702-9a65-522d6d7ecc35_Response_3" name="rdo_6f826915-1228-4702-9a65-522d6d7ecc35_Response" value="3">D. on</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "385c493b-1265-4808-993c-8a06c0d8ef00";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 16</script>
+        <div class="TestItemBody">16.  I prefer writing a term paper （    ）taking an examination.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_385c493b-1265-4808-993c-8a06c0d8ef00_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_385c493b-1265-4808-993c-8a06c0d8ef00_Response_0" name="rdo_385c493b-1265-4808-993c-8a06c0d8ef00_Response" value="0">A. than</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_385c493b-1265-4808-993c-8a06c0d8ef00_Response_1" name="rdo_385c493b-1265-4808-993c-8a06c0d8ef00_Response" value="1">B. to</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_385c493b-1265-4808-993c-8a06c0d8ef00_Response_2" name="rdo_385c493b-1265-4808-993c-8a06c0d8ef00_Response" value="2">C. for</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_385c493b-1265-4808-993c-8a06c0d8ef00_Response_3" name="rdo_385c493b-1265-4808-993c-8a06c0d8ef00_Response" value="3">D. rather than</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "6c98d350-56ac-446b-8c99-7e0cdb089686";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 17</script>
+        <div class="TestItemBody">17.  Not many people realize this,（    ）it is quite true.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_6c98d350-56ac-446b-8c99-7e0cdb089686_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_6c98d350-56ac-446b-8c99-7e0cdb089686_Response_0" name="rdo_6c98d350-56ac-446b-8c99-7e0cdb089686_Response" value="0">A. but</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_6c98d350-56ac-446b-8c99-7e0cdb089686_Response_1" name="rdo_6c98d350-56ac-446b-8c99-7e0cdb089686_Response" value="1">B. however</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_6c98d350-56ac-446b-8c99-7e0cdb089686_Response_2" name="rdo_6c98d350-56ac-446b-8c99-7e0cdb089686_Response" value="2">C. so</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_6c98d350-56ac-446b-8c99-7e0cdb089686_Response_3" name="rdo_6c98d350-56ac-446b-8c99-7e0cdb089686_Response" value="3">D. that</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "aff8b109-3ce1-421b-90c1-e0a0dad4197b";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 18</script>
+        <div class="TestItemBody">18.  Music plays（    ）important part in his life.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_aff8b109-3ce1-421b-90c1-e0a0dad4197b_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_aff8b109-3ce1-421b-90c1-e0a0dad4197b_Response_0" name="rdo_aff8b109-3ce1-421b-90c1-e0a0dad4197b_Response" value="0">A. least</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_aff8b109-3ce1-421b-90c1-e0a0dad4197b_Response_1" name="rdo_aff8b109-3ce1-421b-90c1-e0a0dad4197b_Response" value="1">B. more</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_aff8b109-3ce1-421b-90c1-e0a0dad4197b_Response_2" name="rdo_aff8b109-3ce1-421b-90c1-e0a0dad4197b_Response" value="2">C. the most</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_aff8b109-3ce1-421b-90c1-e0a0dad4197b_Response_3" name="rdo_aff8b109-3ce1-421b-90c1-e0a0dad4197b_Response" value="3">D. much</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "9148602f-50f1-4e23-b3cf-fb63330d5a02";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 19</script>
+        <div class="TestItemBody">19.  Madam Lee made the babysitter（    ）the housework again.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_9148602f-50f1-4e23-b3cf-fb63330d5a02_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_9148602f-50f1-4e23-b3cf-fb63330d5a02_Response_0" name="rdo_9148602f-50f1-4e23-b3cf-fb63330d5a02_Response" value="0">A. do</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_9148602f-50f1-4e23-b3cf-fb63330d5a02_Response_1" name="rdo_9148602f-50f1-4e23-b3cf-fb63330d5a02_Response" value="1">B. to do</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_9148602f-50f1-4e23-b3cf-fb63330d5a02_Response_2" name="rdo_9148602f-50f1-4e23-b3cf-fb63330d5a02_Response" value="2">C. Doing</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_9148602f-50f1-4e23-b3cf-fb63330d5a02_Response_3" name="rdo_9148602f-50f1-4e23-b3cf-fb63330d5a02_Response" value="3">D. raised</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "24cfe810-2911-4c00-bcce-ac699371a22c";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 20</script>
+        <div class="TestItemBody">20.  May I stay with you（    ）going back to my parents’ home tonight?<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_24cfe810-2911-4c00-bcce-ac699371a22c_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_24cfe810-2911-4c00-bcce-ac699371a22c_Response_0" name="rdo_24cfe810-2911-4c00-bcce-ac699371a22c_Response" value="0">A. because of</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_24cfe810-2911-4c00-bcce-ac699371a22c_Response_1" name="rdo_24cfe810-2911-4c00-bcce-ac699371a22c_Response" value="1">B. so as to</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_24cfe810-2911-4c00-bcce-ac699371a22c_Response_2" name="rdo_24cfe810-2911-4c00-bcce-ac699371a22c_Response" value="2">C. in spite of</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_24cfe810-2911-4c00-bcce-ac699371a22c_Response_3" name="rdo_24cfe810-2911-4c00-bcce-ac699371a22c_Response" value="3">D. instead of</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "12d63188-dc55-45d1-826c-3cc6ac7194a7";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 21</script>
+        <div class="TestItemBody">21.  （    ）of them knew anything about it, because it was confidential.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_12d63188-dc55-45d1-826c-3cc6ac7194a7_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_12d63188-dc55-45d1-826c-3cc6ac7194a7_Response_0" name="rdo_12d63188-dc55-45d1-826c-3cc6ac7194a7_Response" value="0">A. Some</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_12d63188-dc55-45d1-826c-3cc6ac7194a7_Response_1" name="rdo_12d63188-dc55-45d1-826c-3cc6ac7194a7_Response" value="1">B. Any</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_12d63188-dc55-45d1-826c-3cc6ac7194a7_Response_2" name="rdo_12d63188-dc55-45d1-826c-3cc6ac7194a7_Response" value="2">C. No one</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_12d63188-dc55-45d1-826c-3cc6ac7194a7_Response_3" name="rdo_12d63188-dc55-45d1-826c-3cc6ac7194a7_Response" value="3">D. None</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "82d76044-44fc-4fd7-9798-8ab2e2381bcd";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 22</script>
+        <div class="TestItemBody">22.  I don’t trust him at all. His smiles always make me （    ）.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_82d76044-44fc-4fd7-9798-8ab2e2381bcd_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_82d76044-44fc-4fd7-9798-8ab2e2381bcd_Response_0" name="rdo_82d76044-44fc-4fd7-9798-8ab2e2381bcd_Response" value="0">A. feeling sick</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_82d76044-44fc-4fd7-9798-8ab2e2381bcd_Response_1" name="rdo_82d76044-44fc-4fd7-9798-8ab2e2381bcd_Response" value="1">B. be sick</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_82d76044-44fc-4fd7-9798-8ab2e2381bcd_Response_2" name="rdo_82d76044-44fc-4fd7-9798-8ab2e2381bcd_Response" value="2">C. being sick</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_82d76044-44fc-4fd7-9798-8ab2e2381bcd_Response_3" name="rdo_82d76044-44fc-4fd7-9798-8ab2e2381bcd_Response" value="3">D. sick</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "bd507d00-27eb-4fea-8432-f8c82aa59e4a";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 23</script>
+        <div class="TestItemBody">23.  I know nothing about him （    ）he is a teacher.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_bd507d00-27eb-4fea-8432-f8c82aa59e4a_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_bd507d00-27eb-4fea-8432-f8c82aa59e4a_Response_0" name="rdo_bd507d00-27eb-4fea-8432-f8c82aa59e4a_Response" value="0">A. besides</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_bd507d00-27eb-4fea-8432-f8c82aa59e4a_Response_1" name="rdo_bd507d00-27eb-4fea-8432-f8c82aa59e4a_Response" value="1">B. in addition</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_bd507d00-27eb-4fea-8432-f8c82aa59e4a_Response_2" name="rdo_bd507d00-27eb-4fea-8432-f8c82aa59e4a_Response" value="2">C. except for</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_bd507d00-27eb-4fea-8432-f8c82aa59e4a_Response_3" name="rdo_bd507d00-27eb-4fea-8432-f8c82aa59e4a_Response" value="3">D. except that</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "c92a5ac0-361e-4b0a-aabe-46fc25bbc07e";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 24</script>
+        <div class="TestItemBody">24.  This room（    ）in the building.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_c92a5ac0-361e-4b0a-aabe-46fc25bbc07e_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_c92a5ac0-361e-4b0a-aabe-46fc25bbc07e_Response_0" name="rdo_c92a5ac0-361e-4b0a-aabe-46fc25bbc07e_Response" value="0">A. is biggest than any other one</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_c92a5ac0-361e-4b0a-aabe-46fc25bbc07e_Response_1" name="rdo_c92a5ac0-361e-4b0a-aabe-46fc25bbc07e_Response" value="1">B. is bigger than any other one</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_c92a5ac0-361e-4b0a-aabe-46fc25bbc07e_Response_2" name="rdo_c92a5ac0-361e-4b0a-aabe-46fc25bbc07e_Response" value="2">C. is more bigger than any other one</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_c92a5ac0-361e-4b0a-aabe-46fc25bbc07e_Response_3" name="rdo_c92a5ac0-361e-4b0a-aabe-46fc25bbc07e_Response" value="3">D. is bigger than any one</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+			var q = new QuestionItem();
+			q.ID = "f0a93fcd-c526-4bb0-bb74-974a33575013";
+			q.SectionIndex = sectionIndex;
+			q.QuestionIndex = 25</script>
+        <div class="TestItemBody">25.  The city government must take action（    ）the increasing populating.<script type="text/jscript" language="javascript">q.Type = "1";
+				q.ObjectID[q.ObjectID.length] = "rdo_f0a93fcd-c526-4bb0-bb74-974a33575013_Response"
+			q.Response[q.Response.length] = "Response";
+			q.Answer[q.Answer.length] = "";
+		</script><div class="TestSingleOptionBody"><input type="radio" id="rdo_f0a93fcd-c526-4bb0-bb74-974a33575013_Response_0" name="rdo_f0a93fcd-c526-4bb0-bb74-974a33575013_Response" value="0">A. to control</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_f0a93fcd-c526-4bb0-bb74-974a33575013_Response_1" name="rdo_f0a93fcd-c526-4bb0-bb74-974a33575013_Response" value="1">B. controlling</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_f0a93fcd-c526-4bb0-bb74-974a33575013_Response_2" name="rdo_f0a93fcd-c526-4bb0-bb74-974a33575013_Response" value="2">C. controls</div><div class="TestSingleOptionBody"><input type="radio" id="rdo_f0a93fcd-c526-4bb0-bb74-974a33575013_Response_3" name="rdo_f0a93fcd-c526-4bb0-bb74-974a33575013_Response" value="3">D. controlled</div><div>      满分：4  分</div></div>
+        <script type="text/jscript" language="javascript">
+			g_QuestionItems[g_QuestionItems.length] = q;
+		</script>
+        <script type="text/jscript" language="javascript">
+          document.write("</div>");
+        </script>
+      </td>
+    </tr>
+  </table>
+  <script type="text/jscript" language="javascript" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:myPublicFunction="urn:myPublicFunction">
+			g_TestDuration = new Date().getTime();
+			g_SectionDuration = new Date().getTime();
+		</script>
+</div>
+
+
+        <table align="center">
+            <tr>
+                <td height="30" style ="  text-align:center; font-weight:bold; font-size:larger; color:Red;">请同学及时保存作业,如您在20分钟内不作操作,系统将自动退出。
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <input type="submit" name="btn_Save" value="保存" onclick="return CreateResult(false);" id="btn_Save" class="btn4" />
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="submit" name="btn_Submit" value="交卷" onclick="return CreateResult(true);" id="btn_Submit" class="btn4" />
+                </td>
+            </tr>
+        </table>
+        <div id="div_Screen" style="background-color: Gray; filter: alpha(opacity=70); opacity: 0.7;
+            position: absolute; width: 1260px; height: 5000px; top: 0px; left: 0px; z-index: 10000">
+            <table align="center" width="1280px" height="1024px">
+                <tr>
+                    <td align="center" valign="middle">
+                        <font size="6" color="red">对不起，由于您的浏览器不能运行javascript，所以不能运行作业程序！<br />
+                            <br />
+                            请您解除禁止javascript后，点击已经解除按钮或重新打开页面！<br />
+                            <br />
+                            <a class="Link" href="../../LmsHelp/JavascriptNotRun.aspx" target="_blank">解决方法</a></font><br />
+                        <br />
+                        <input type="button" onclick="UnChain()" value="已经解除" />
+                    </td>
+                </tr>
+            </table>
+        </div>
+          
+
+<script type="text/javascript">
+        var LogChannelID = '100200';
+</script>
+
+<script type="text/javascript" src="/JScript/Install_Catch_Behavior.js"></script>
+
+<script type="text/javascript">
+        SetUniversityIDLogerr('10006');
+</script>
+
+
+    
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQL3v/fHBgLa9fmnCwK/5K3ADAK1s9viDwKQ/p2iDw30TFW/lSH7Ki3foWGBCXePKjLD" />
+</div>
+<script language='javascript' type='text/javascript'>InitControl(document.all.uc_testPaper_txtAssessmentResult,document.all.uc_testPaper_txtLeaveTime,'b51ed815-5168-496f-90e6-005f73c95775');</script></form>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+<script language="javascript" type="text/javascript">
+UnChain();
+function UnChain()
+{
+    document.getElementById("div_Screen").style.display='none';
+}
+function RefreshParentWindow()
+{
+    if(window.opener)
+    {
+        var url = window.opener.location.href;
+        
+        if (url.toLowerCase().indexOf("vocationcenter") == -1 )
+        {   
+            if ( url.toLowerCase().indexOf("activeviewindex") == -1 )
+            {
+                url += "&ActiveViewIndex=2";//先刷新父页面
+            }
+        }
+        window.opener.location.replace(url);
+    }
+}
+
+$(document).ready(function ()
+{
+	$("textarea[class='homeworkExtendedText']").each(function ()
+	{
+		var oFCKeditor = new FCKeditor( this.id ) ; 
+        oFCKeditor.BasePath = "../../FCKeditor/" ;
+        oFCKeditor.ToolbarSet = "Review";
+        oFCKeditor.Height	= "180px";
+        oFCKeditor.Width	= "70%";
+        oFCKeditor.Value    = this.value;
+        oFCKeditor.ReplaceTextarea() ;//替换所有作答textarea 
+	})
+})
+    
+</script>
